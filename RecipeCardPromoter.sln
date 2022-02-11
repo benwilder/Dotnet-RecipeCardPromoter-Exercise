@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCardPromoter.Api", "RecipeCardPromoter.Api\RecipeCardPromoter.Api.csproj", "{E5ADAB82-5FCF-48BE-9DE3-6855B1CD5BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCardPromoter.Tests", "RecipeCardPromoter.Tests\RecipeCardPromoter.Tests.csproj", "{EAE7C9A7-21D2-4B12-B92F-00F7849E16F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5ADAB82-5FCF-48BE-9DE3-6855B1CD5BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5ADAB82-5FCF-48BE-9DE3-6855B1CD5BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5ADAB82-5FCF-48BE-9DE3-6855B1CD5BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5ADAB82-5FCF-48BE-9DE3-6855B1CD5BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE7C9A7-21D2-4B12-B92F-00F7849E16F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE7C9A7-21D2-4B12-B92F-00F7849E16F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE7C9A7-21D2-4B12-B92F-00F7849E16F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE7C9A7-21D2-4B12-B92F-00F7849E16F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
